@@ -1,5 +1,5 @@
 ---
-让LyricEase起死回生
+title: 让LyricEase起死回生
 ---
 
 本文发表于 2025/5/1 22:25
