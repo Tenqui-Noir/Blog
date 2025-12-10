@@ -1,13 +1,10 @@
 ---
 title: Play Integrity 完整性验证解决方案
 description: 使用 Play Integrity Fix(Fork)，TrickyStore 和 TrickyStore Addon 来通过 Play Integrity 完整性验证
-date: 2024-12-10
-excerpt: 本文操作来源于 reddit 帖子：[Tutorial] Guide on fixing play integrity on rooted device.
-  我并不是来抢走他人的劳动成果，我只针对操作进行展开说明
-  推荐您在操作时主动了解每一步所作的目的，这有助于您日后（或遇错）时排查错误。
-  此方案需要你拥有 Root权限 ,推荐使用 MT管理器 进行文件相关操作
+date: 2025-12-10
+excerpt: 本文操作来源于 reddit 帖子：[Tutorial] Guide on fixing play integrity on rooted device ,我并不是来抢走他人的劳动成果，我只针对操作进行展开说明
+permalink: /Play-Integrity-Pass/
 ---
-# Play Integrity 完整性验证解决方案
 本文操作来源于 reddit 帖子：[[Tutorial] Guide on fixing play integrity on rooted device.](https://www.reddit.com/r/Magisk/comments/1js8qm3/tutorial_guide_on_fixing_play_integrity_on_rooted/)
 <br>
 我并不是来抢走他人的劳动成果，我只针对操作进行展开说明
@@ -17,7 +14,7 @@ excerpt: 本文操作来源于 reddit 帖子：[Tutorial] Guide on fixing play i
 此方案需要你拥有  [Root权限](https://zh.wikipedia.org/wiki/Root_(Android)) ,推荐使用 [MT管理器](https://mt2.cn/) 进行文件相关操作
 ## 简要操作流程：
 首先请移除所有与完整性验证相关的模块
-1. 下载 [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases), [TrickyStore](https://github.com/5ec1cff/TrickyStore/releases/),[TrickyStore Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases)
+1. 下载 [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases), [TrickyStore](https://github.com/5ec1cff/TrickyStore/releases/), [TrickyStore Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases)
 2. 安装 Play Integrity Fork 与 TrickyStore
 3. 重启设备
 4. 在模块列表中点击 Play Integrity Fork 的操作按钮
