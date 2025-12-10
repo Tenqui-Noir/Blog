@@ -23,7 +23,7 @@ permalink: /Play-Integrity-Pass/
 7. 重启设备
 8. 点击 ``TrickyStore`` 的操作按钮，若未安装 ``KsuWebUI`` 或 ``MMRL`` ，它将自动安装，推荐使用 ``KsuWebUI``
 9. 点击 ``TrickyStore`` 的操作按钮以打开 ``KsuWebUI``
-10. 选中 ``Google Play Services``, ``Google Play Store``, ``Google Services Framework``
+10. 选中 ``Google Play Services``, ``Google Play Store``, ``com.google.android.gsf``
 11. 打开选项（右上角三个点），选择 密钥 ，点击"有效"
 12. 再次打开选项，> 设置安全补丁 > 获取安全补丁日期，若操作成功，点击保存，若操作不成功请点击 自动
 13. 重启设备
