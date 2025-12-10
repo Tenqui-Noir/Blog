@@ -3,6 +3,7 @@ title: 让LyricEase起死回生
 description: 通过请求转发，使得Lyricease能够重新登陆
 date: 2025-12-4
 excerpt: 通过请求转发，使得Lyricease能够重新登陆
+permalink: /Lyricease-Login/
 ---
 
 本文发表于 2025/5/1 22:25
